@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "39lidMFULDoJMf35vyjoW2xyX9HE/S88m0Xr9+ET8+A=",
+  "Source": "BookingHotelAPI",
+  "BasePath": "_content/BookingHotelAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BookingHotelAPI\\wwwroot",
+      "Source": "BookingHotelAPI",
+      "ContentRoot": "C:\\Users\\moham\\source\\repos\\BookingHotel\\BookingHotelAPI\\wwwroot\\",
+      "BasePath": "_content/BookingHotelAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
